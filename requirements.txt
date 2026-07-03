@@ -1,5 +1,0 @@
-iqoptionapi
-pandas
-numpy
-requests
-pytz
